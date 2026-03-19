@@ -9,3 +9,11 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Bassline Bounce,DJ Aster,edm,party,0.88,128,0.74,0.93,0.06
+12,Paper Planes,Southside Verse,hiphop,confident,0.70,96,0.67,0.84,0.14
+13,Winter Sonata,Aria Kwon,classical,calm,0.22,64,0.43,0.18,0.98
+14,Desert Road,The Dusty Pines,country,nostalgic,0.46,104,0.55,0.52,0.62
+15,Neon Petals,Sakura Beat,kpop,bright,0.80,122,0.86,0.90,0.20
+16,Shadow Sermon,Iron Chapel,metal,angry,0.95,170,0.26,0.45,0.04
+17,Sunset Salsa,Luna Caribe,reggaeton,flirty,0.78,94,0.79,0.91,0.11
+18,Campfire Letters,Willow & Wheat,folk,melancholy,0.34,88,0.40,0.39,0.83
